@@ -2,6 +2,10 @@
 
 <div style="margin: 20px 0;">
   <a href="https://docs.google.com/document/d/1MumNWwTGWzfmU762cx_zeIAlVwPnPW3tSIvMmgmoR7Q/edit?usp=sharing" style="display: inline-block; padding: 12px 20px; margin-right: 10px; background-color: #24292e; color: #fff; text-decoration: none; border-radius: 6px; font-weight: bold;">📘 Открыть полный отчет в Google Docs</a>
+  </div>  
+
+<div style="margin: 20px 0;">
+  <a href="вставь-ссылку-на-metabase" style="display: inline-block; padding: 12px 20px; background-color: #0366d6; color: #fff; text-decoration: none; border-radius: 6px; font-weight: bold;">📊 Перейти к дашборду</a>
   </div>
 
 ## 🎯 Описание проекта
