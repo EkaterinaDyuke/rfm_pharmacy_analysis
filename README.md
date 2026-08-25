@@ -5,8 +5,9 @@
   </div>  
 
 <div style="margin: 20px 0;">
-  <a href="[вставь-ссылку-на-metabase](https://metabase.simulative.ru/dashboard/1207-monitoring-klientskoj-bazy-dlya-formirovaniya-sms-rassyl?%25D0%25B0%25D0%25BF%25D1%2582%25D0%25B5%25D0%25BA%25D0%25B0=&%25D0%25B4%25D0%25B8%25D0%25B0%25D0%25BF%25D0%25B0%25D0%25B7%25D0%25BE%25D0%25BD_%25D0%25B4%25D0%25B0%25D1%2582=2021-07-12~2022-06-09&%25D0%25BF%25D0%25B5%25D1%2580%25D0%25B8%25D0%25BE%25D0%25B4=&tab=463-аннотация)" style="display: inline-block; padding: 12px 20px; background-color: #0366d6; color: #fff; text-decoration: none; border-radius: 6px; font-weight: bold;">📊 Перейти к дашборду</a>
-  </div>
+  <a href="https://metabase.simulative.ru/dashboard/1207-monitoring-klientskoj-bazy-dlya-formirovaniya-sms-rassyl?%25D0%25B0%25D0%25BF%25D1%2582%25D0%25B5%25D0%25BA%25D0%25B0=&%25D0%25B4%25D0%25B8%25D0%25B0%25D0%25BF%25D0%25B0%25D0%25B7%25D0%25BE%25D0%25BD_%25D0%25B4%25D0%25B0%25D1%2582=2021-07-12~2022-06-09&%25D0%25BF%25D0%25B5%25D1%2580%25D0%25B8%25D0%25BE%25D0%25B4=&tab=463-аннотация" style="display: inline-block; padding: 12px 20px; background-color: #0366d6; color: #fff; text-decoration: none; border-radius: 6px; font-weight: bold;">📊 Перейти к дашборду</a>
+</div>
+
 
 ## 🎯 Описание проекта
 
